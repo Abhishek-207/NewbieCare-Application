@@ -2,7 +2,7 @@
 
 ![Logo](https://user-images.githubusercontent.com/98517363/220811259-74e3db93-aa44-47fe-a8a4-f68715770e7c.png)
  
- Problem statement:
+PROBLEM STATEMENT:
 810 women die everyday as a result of the complexities of childbirth. According to WHO, the main factors that prevent women from receiving or seeking care during pregnancy and childbirth are:
 Poverty
 Distance to facilities
