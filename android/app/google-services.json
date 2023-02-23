@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "788050152285",
+    "project_id": "newbiecare-301de",
+    "storage_bucket": "newbiecare-301de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788050152285:android:cbf2e3aaa1690a719b36b4",
+        "android_client_info": {
+          "package_name": "NewBieCare.App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788050152285-e6m4tt35k62ueg0rp1nc2hm6gii0rnvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "NewBieCare.App",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "788050152285-fmelj4f1ogb3p0mb2uv1sq4dad6nge6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh6azwQzvcf4PZQfmP6Oez5dAJRG6ypE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788050152285-fmelj4f1ogb3p0mb2uv1sq4dad6nge6g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788050152285-363jms02q1fpj84pak22c2o1ldrd8ali.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "NewBieCare.App"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788050152285:android:824aa64d46782eae9b36b4",
+        "android_client_info": {
+          "package_name": "com.mycompany.newbiecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788050152285-fpubkdjcefl8bo1o36kejdu0uub03vfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.newbiecare",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "788050152285-fmelj4f1ogb3p0mb2uv1sq4dad6nge6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh6azwQzvcf4PZQfmP6Oez5dAJRG6ypE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788050152285-fmelj4f1ogb3p0mb2uv1sq4dad6nge6g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788050152285-363jms02q1fpj84pak22c2o1ldrd8ali.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "NewBieCare.App"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
