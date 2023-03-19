@@ -47,5 +47,22 @@ Run the following commands from your terminal:
 2) `flutter pub get` in the project root directory to install all the required dependencies.
 
 ![01](https://user-images.githubusercontent.com/98517363/226147186-169e7f4f-876d-4b4b-9c1b-6414c3e87c20.png)
+![02](https://user-images.githubusercontent.com/98517363/226147318-cbced246-cf5b-4d39-bca6-2fc02ccb3e97.png)
+![03](https://user-images.githubusercontent.com/98517363/226147326-12de1880-c653-4e4c-b1c3-e07ef45ee5a5.png)
+![04](https://user-images.githubusercontent.com/98517363/226147329-7bac4d5f-3df8-472f-a194-cbe9d74eabd6.png)
+![0005](https://user-images.githubusercontent.com/98517363/226147334-46dcca45-58b6-4891-9a0d-a86f06b53ffb.png)
+![005](https://user-images.githubusercontent.com/98517363/226147338-554f3f03-8e13-444a-b3c8-32fb5307dac4.png)
+![05](https://user-images.githubusercontent.com/98517363/226147340-f39be48b-c724-4f21-98ef-c0c9b176b731.png)
+![06](https://user-images.githubusercontent.com/98517363/226147342-ec5fa1bd-e052-443d-bb9b-a57bd20f6804.png)
+![07](https://user-images.githubusercontent.com/98517363/226147343-7c359108-eaff-4c70-8a36-25ef02fe1444.png)
+![08](https://user-images.githubusercontent.com/98517363/226147344-ac651045-17ab-401e-8b8d-6cec36b184b5.png)
+![09](https://user-images.githubusercontent.com/98517363/226147345-1b1a58d3-71b5-4abc-be64-569715311518.png)
+![10](https://user-images.githubusercontent.com/98517363/226147346-b307062d-3c58-4666-b982-89fe4f398614.png)
+![11](https://user-images.githubusercontent.com/98517363/226147349-45f953d3-6e6c-4b83-8b13-c9a34143bba0.png)
+![12](https://user-images.githubusercontent.com/98517363/226147352-01ed001c-8bdf-4a65-a666-bf58f2793e50.png)
+![13](https://user-images.githubusercontent.com/98517363/226147355-dfb84c41-1393-4025-9cbe-4e9240b77dc7.png)
+![14](https://user-images.githubusercontent.com/98517363/226147360-d0cb22a8-e523-4c01-b7d0-b126d0a07810.png)
+![15](https://user-images.githubusercontent.com/98517363/226147365-7c6ca513-0a2f-4a0a-9c70-5628d8274084.png)
+
 
 
