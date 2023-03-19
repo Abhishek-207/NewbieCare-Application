@@ -1,4 +1,4 @@
-# NewBieCare
+# NewBieCare - Team Invincible
 
 ![Logo small](https://user-images.githubusercontent.com/98517363/226147288-97a22304-f9b2-4013-87de-5f2052b5666a.png)
 
