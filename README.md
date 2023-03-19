@@ -46,9 +46,11 @@ Run the following commands from your terminal:
 
 2) `flutter pub get` in the project root directory to install all the required dependencies.
 
-[AMU Hacks NewbieCare Pitch .pdf](https://github.com/Abhishek-207/NewbieCare-Application/files/11009974/AMU.Hacks.NewbieCare.Pitch.pdf)
 
+ ## Access the Presentation PDF from here-
+[AMU Hacks NewbieCare Presentation.pdf](https://github.com/Abhishek-207/NewbieCare-Application/files/11009974/AMU.Hacks.NewbieCare.Pitch.pdf)
 
+## UI of the App
 
 ![01](https://user-images.githubusercontent.com/98517363/226147403-fc6aa029-4ef6-43dc-a34f-8a6e7fbb456f.png)
 ![02](https://user-images.githubusercontent.com/98517363/226147404-74ba2053-fdf9-4ffa-a4e9-00de6edd8027.png)
