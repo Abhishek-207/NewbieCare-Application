@@ -32,5 +32,10 @@ This command creates the generated files that parse each Record from Firestore i
 
 ### Getting started continued:
 
-This project is a starting point for a Flutter application.
+### Requirements
+Flutter SDK
+VS Code
+Android Studio
+
+
 
