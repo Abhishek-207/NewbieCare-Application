@@ -33,9 +33,9 @@ This command creates the generated files that parse each Record from Firestore i
 ### Getting started continued:
 
 ### Requirements
-Flutter SDK
-VS Code
-Android Studio
+Flutter SDK.
+VS Code.
+Android Studio.
 
 
 
