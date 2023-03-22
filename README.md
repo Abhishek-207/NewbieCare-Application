@@ -16,8 +16,6 @@ We here are stressing on reducing multiple visits of MOTHER'S TO BE to doctors, 
  PROPOSED SOLUTION: We have developed a "Newbie Handband" and an Application that assesses the use of sensors and the internet of things IOT as an innovative technology to monitor maternal health during pregnancy.
 
 
-A new Flutter project.
-
 ## Getting Started
 
 ### IMPORTANT:
