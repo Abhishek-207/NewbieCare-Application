@@ -46,7 +46,9 @@ Run the following commands from your terminal:
 
 
  ## Access the Presentation PDF from here-
-[AMU Hacks NewbieCare Presentation.pdf](https://github.com/Abhishek-207/NewbieCare-Application/files/11009974/AMU.Hacks.NewbieCare.Pitch.pdf)
+ [NewBieCare Solution C.pdf](https://github.com/Abhishek-207/NewbieCare-Application/files/11115009/NewBie.care.pitch.solution.C.pdf)
+
+
 
 ## UI of the App
 
